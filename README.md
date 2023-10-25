@@ -2,7 +2,8 @@
 # Netflix-GPT
 
 - Create react app
-- Configure Tailwind css
+- Configure Tailwind CSS
+
 
 
 # Features
