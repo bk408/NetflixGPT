@@ -4,8 +4,6 @@
 - Create react app
 - Configure Tailwind CSS
 
-
-
 # Features
 
 - Login/Sign Up
