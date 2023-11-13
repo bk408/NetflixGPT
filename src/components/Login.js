@@ -29,7 +29,6 @@ const Login = () => {
 
     setErrorMessage(message);
 
-
     if (message) return;
 
     // Sign In/ Sign up Logic
