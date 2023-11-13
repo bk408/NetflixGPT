@@ -18,8 +18,14 @@
 
 
 
+- Implement Sign out
+- Update Profile
+- Fetch movies from TMDB
+=======
+
 - Create Sign up user Account  
 - Configure Tailwind CSS
+
  
 =
 # Features
