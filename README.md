@@ -1,4 +1,3 @@
-
 # Netflix-GPT
 
 - Create react app
